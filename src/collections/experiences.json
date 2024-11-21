@@ -1,0 +1,23 @@
+[
+	{
+		"dates": "Mayo 2023 · Agosto 2023",
+		"role": "Diseñadora Freelance",
+		"company": "Neuronas Creativity ",
+		"description": "Diseño UX/UI enfocado en experiencias de usuario intuitivas y atractivas. Desarrollo de piezas gráficas y visuales impactantes. Generación de contenidos persuasivos y estrategias de marketing. Contribución a la estrategia integral para maximizar el impacto de campañas publicitarias.",
+		"logo": "/assets/images/experiences/planificacion.png"
+	},
+	{
+		"dates": "Julio 2022 · Julio 2023",
+		"role": "Becaria en Diseño Multimedial",
+		"company": "Universidad Maimónides",
+		"description": "Diseño y prototipado de landings para desktop y mobile. Creación de piezas gráficas para redes sociales y mailings. Optimización de la experiencia del usuario en proyectos multimediales.",
+		"logo": "/assets/images/experiences/medios-de-comunicacion-social.png"
+	},
+	{
+		"dates": "Junio 2022 · Diciembre 2022 ",
+		"role": "Diseñadora Freelance",
+		"company": "Consultoría MKT",
+		"description": "Desarrollo de piezas gráficas para campañas publicitarias. Creación de contenidos estratégicos y copys impactantes. Gestión de redes sociales y plataformas como Facebook Ads y Google My Business.",
+		"logo": "/assets/images/experiences/publicidad.png"
+	}
+]

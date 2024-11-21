@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Proyecto Parlantes Holofónicos | UX/UI Design",
+		"description": "Parlantes Holofónicos es una función en la cual el espectador vivencia la música a oscuras. Esta es una propuesta visual de su página web. ",
+		"image": "/assets/images/projects/ph.png",
+		"url": "https://www.behance.net/gallery/168147093/Proyecto-Parlantes-Holofonicos-UXUI"
+	},
+	{
+		"name": "Universidad Maimónides",
+		"description": "Proyectos institucionales para la Universidad Maimónides.",
+		"image": "/assets/images/projects/maimo.png",
+		"url": "https://www.figma.com/design/5zUwkpNu7FqLRPKi9lLU9L/CV?node-id=0-1"
+	},
+	{
+		"name": "Caso de Estudio UX - Mercado Libre",
+		"description": "Challenge UX para Mercado Libre ",
+		"image": "/assets/images/projects/meli.png",
+		"url": "https://www.figma.com/proto/2cERrHLXbpoEOcw2k8MCrY/UX-CHALLENGE-MELI?page-id=0%3A1&node-id=1902-2158&node-type=canvas&viewport=-200%2C407%2C0.03&t=GCVEuihZQchP1RSK-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1923%3A1665"
+	},
+	{
+		"name": "Proyecto AR Sistema Solar",
+		"description": "Este proyecto presenta un sistema solar en 3D interactivo diseñado para realidad aumentada (AR)",
+		"image": "/assets/images/projects/AR.png",
+		"url": "https://github.com/vicocongui/OP1-SolarSystem"
+	}
+]
